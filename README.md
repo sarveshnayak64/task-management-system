@@ -5,6 +5,7 @@
 
 ## ○ Project setup guidelines
 The project file has frontend, backend and db.sql file
+
 Import the db.sql in mySQl
 
 ### Navigate to backend folder
